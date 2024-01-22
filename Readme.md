@@ -1,10 +1,7 @@
-Certainly! Below is a sample README for your Streamlit app. You may want to customize it further based on additional information you'd like to provide or specific instructions for users.
 
----
 
 # Smart ATS - Resume Evaluation App
 
-![Resume Icon](https://img.icons8.com/ios/452/resume.png)
 
 ## Overview
 
